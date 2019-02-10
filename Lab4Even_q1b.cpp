@@ -217,7 +217,7 @@ class QueueLL{
 	//display
 	void display(){
 		if(isEmpty()==0) l1.display();
-    	else cout << "Empty stack!" << endl;
+    	else cout << "Empty queue!" << endl;
 	}
 	//displayFront
 	void disFront(){
